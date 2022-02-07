@@ -4,7 +4,7 @@
 in order to start up the project follow the setps:
 
 <ul>
-    <li>In the backend (flask-sever):</li>
+    <li>In the backend (flask-server):</li>
         <ol>
             <li>In the treminal cd to the flask-server</li>
             <li>use promt to change into venv: </li>
