@@ -15,7 +15,7 @@ export const Show = ({ movieToShow }) => {
                         <figcaption>Screenwriter(s) - {data.screenwriter}</figcaption>
                         <figcaption>Producer(s) - {data.producer}</figcaption>
                         <figcaption>Phase - {data.phase}</figcaption>
-                        <figcaption>Plot(s) - {data.plot}</figcaption>
+                        <figcaption>Plot - {data.plot}</figcaption>
                         <figcaption>Movie length (in minutes) - {data.movieLength}</figcaption>
                         <figcaption>Stars - {data.stars}</figcaption>  
                     </figure>
