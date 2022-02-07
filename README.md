@@ -1,6 +1,6 @@
 # Flask & React app - Marvel Cinematic Univese
 
-## Setup
+## Setup:
 in order to start up the project follow the setps:
 
 <ul>
@@ -23,7 +23,7 @@ in order to start up the project follow the setps:
         </ol>
 </ul>
 
-## Functionalities 
+## Functionalities:
 ### Frontend:
 <ol>
     <li>Use the search bars to find the movie you're looking for in two fashiones:</li>
