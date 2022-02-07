@@ -24,6 +24,7 @@ function App() {
         .show-movie, {
           flex: 1;
           background-color: white;
+          padding: 5rem 0;
         }
 
         .container {
@@ -106,6 +107,11 @@ function App() {
           font-weight: 500;
           justify-content: center;
           align-items: center;
+        }
+        
+        figure{
+          display:block;
+          margin: 75px;
         }
 
       `}
